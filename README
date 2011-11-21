@@ -1,3 +1,12 @@
 Search duplicated
+--------------------------
 
+English
+--------------------------
 Delphi project for search duplicated unit names in a ProjectGroup
+
+Spanish
+--------------------------
+Proyecto realizado en Delphi para buscar nombres de unidades repetidos en diferencias proyectos dentro de un grupo.
+
+Sirve para localizar unidades comunes entre diversos proyectos que estarían mejor en librerías independientes.
